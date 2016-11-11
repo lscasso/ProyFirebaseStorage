@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1091839965320",
+    "firebase_url": "https://proyfirebasestorage.firebaseio.com",
+    "project_id": "proyfirebasestorage",
+    "storage_bucket": "proyfirebasestorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091839965320:android:7eba67068dab8ce5",
+        "android_client_info": {
+          "package_name": "com.lscasso.proyfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091839965320-1balfi5hkff2iu88pmidb6uvdags8upj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHtcOZGRN1Mr3SWaKoAU-0S3EoRu1p0Tc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
